@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-15 15:43+0700\n"
+"POT-Creation-Date: 2019-02-18 07:31+0700\n"
 "PO-Revision-Date: 2019-01-10 16:42+0700\n"
 "Last-Translator: \n"
 "Language: id\n"
@@ -138,7 +138,7 @@ msgstr "Password kamu telah direset."
 msgid "Error: the translation service is not configured."
 msgstr ""
 
-#: app/translate.py:16
+#: app/translate.py:17
 msgid "Error: the translation service failed."
 msgstr ""
 
@@ -163,7 +163,7 @@ msgstr "Administrator telah diberi tahu, mohon maaf atas ketidaknyamanan nya!"
 msgid "%(username)s said %(when)s"
 msgstr ""
 
-#: app/templates/_post.html:26
+#: app/templates/_post.html:25
 msgid "Translate"
 msgstr ""
 
