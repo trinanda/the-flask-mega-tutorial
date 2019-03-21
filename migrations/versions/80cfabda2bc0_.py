@@ -1,8 +1,8 @@
-"""migrate after flask-blueprint tutorial
+""".
 
-Revision ID: 7dc9b687aeca
+Revision ID: 80cfabda2bc0
 Revises: 
-Create Date: 2019-02-24 11:11:56.488903
+Create Date: 2019-03-02 08:47:59.684245
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '7dc9b687aeca'
+revision = '80cfabda2bc0'
 down_revision = None
 branch_labels = None
 depends_on = None
